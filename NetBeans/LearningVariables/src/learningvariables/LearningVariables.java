@@ -49,11 +49,6 @@ public class LearningVariables {
 //              String input = JOptionPane.showInputDialog("Mensagem");
 //              JOptionPane.showMessageDialog(null, "Não há uma entrada aqui; apenas uma mensagem", "Título",0);
 
-String inputString = JOptionPane.showInputDialog("??");
-int input = Integer.parseInt(inputString);
-input++;
-
-int input = Integer.parseInt(JOptionPane.showInputDialog("??")) + 1;
 
     }
     
